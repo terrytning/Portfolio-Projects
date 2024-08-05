@@ -58,6 +58,7 @@ Thanks for your time.
 **Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning, removing numbers,punctuations,stopwords, finding frequency of words,plotting words frequecy, plotting word cloud,etc.
 
 **Skills:** data cleaning, data manipulation, data visualization
+
 **Technology:** Python Pandas,numpy, matplotlib,textblob,wordcloud,nltk.
 
 ### Project 5, Tableau Public Dashboard
