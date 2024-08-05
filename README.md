@@ -41,6 +41,7 @@ Thanks for your time.
 ### Project 3, Customer segmentation - RFM analysis
 
 **Goal:** To identify and better understand segments of customers 
+
 **Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Data%20Analysis.sql)
 
 **Description:** The dataset contains customer purchase transactions, including customer name, purchase date, and the amount purchased,etc. This project includes the following steps: data loading, data cleaning and preprocessing,data exploratory analysis,calculating customer purchase recency,frenqucy and monetory amount, grouping customers by their recency,frequency and monetory amount, combining recency,frenquency and monetory amount to obtain RFM value,intepretging customer segements based on their RFM.
